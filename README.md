@@ -5,8 +5,8 @@ This is a simple exercise with the Dogs Breeds API. The main purpose is develop 
 
 ## Features
 - List of Breeds which can contain 2 components:
-    -> Breed without sub-breed is displayed on a fixed component displaying a random image everyime the user pass by, when tapping navigates to the image collection for that breed.
-    -> Breed with sub-breed is shown in a horizontal collection displaying every sub-breed and if the users taps one, navigates to the image collection. Users can also tap on "All" to navigate to all parent breed images regardless the sub-breeds. 
+    - Breed without sub-breed is displayed on a fixed component displaying a random image everyime the user pass by, when tapping navigates to the image collection for that breed.
+    - Breed with sub-breed is shown in a horizontal collection displaying every sub-breed and if the users taps one, navigates to the image collection. Users can also tap on "All" to navigate to all parent breed images regardless the sub-breeds. 
 
 - List of lovely dogs images for a specific breed. 
     - Users can like an image and will be added to the Favourites section.
