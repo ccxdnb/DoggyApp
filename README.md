@@ -25,6 +25,6 @@ Download and run the project, no need of aditional comands or dependencies.
 
 
 ## Demo
-<img width="300" src="https://github.com/ccxdnb/DoggyApp/assets/54032761/5f93bb05-bbdd-4a80-b828-a5b9cd7a4efa"> 
-<img width="300" src="https://github.com/ccxdnb/DoggyApp/assets/54032761/32be53b7-baed-4ca0-bde2-d20419515393"> 
-<img width="300" src="https://github.com/ccxdnb/DoggyApp/assets/54032761/d678b37b-5382-4671-a4fa-ff1ab3ba7cc0"> 
+<img width="200" src="https://github.com/ccxdnb/DoggyApp/assets/54032761/5f93bb05-bbdd-4a80-b828-a5b9cd7a4efa"> 
+<img width="200" src="https://github.com/ccxdnb/DoggyApp/assets/54032761/32be53b7-baed-4ca0-bde2-d20419515393"> 
+<img width="200" src="https://github.com/ccxdnb/DoggyApp/assets/54032761/d678b37b-5382-4671-a4fa-ff1ab3ba7cc0"> 
