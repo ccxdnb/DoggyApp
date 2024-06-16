@@ -1,10 +1,5 @@
 # Doggy App
 
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-
 ## About
 This is a simple exercise with the Dogs Breeds API. The main purpose is develop a simple app to show the dogs breeds and their sub breeds without using external frameworks. Allows the users to navigate through the breeds and sub breeds and see random images of the dogs.
 
